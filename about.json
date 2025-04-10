@@ -1,11 +1,9 @@
 {
-  "name": "Air Theme",
+  "name": "Puttyverse Air Theme",
   "about_url": "https://meta.discourse.org/t/discourse-air-theme/197703",
-  "license_url": "https://github.com/discourse/discourse-air/blob/main/LICENSE",
+  "license_url": "https://github.com/Puttyverse/discourse-air-pv/blob/main/LICENSE",
   "components": [
-    "https://github.com/jordanvidrine/discourse-category-group-boxes.git",
-    "https://github.com/discourse/discourse-clickable-topic.git",
-    "https://github.com/discourse/discourse-search-banner.git"
+    "https://github.com/discourse/discourse-clickable-topic.git"
   ],
   "modifiers": {
     "serialize_topic_excerpts": true
@@ -13,8 +11,8 @@
   "color_schemes": {
     "pv-air-light": {
       "primary": "1c1c1c",
-      "secondary": "f9fcff",
-      "tertiary": "3877e5",
+      "secondary": "ffffff",
+      "tertiary": "0c3872",
       "quaternary": "f9b492",
       "header_background": "ffffff",
       "header_primary": "2a302f",
