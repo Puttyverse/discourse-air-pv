@@ -3,7 +3,7 @@
   "component": false,
   "license_url": null,
   "about_url": null,
-  "authors": Discourse,
+  "authors": null,
   "theme_version": "10.0.0",
   "modifiers": {
     "serialize_topic_excerpts": true
