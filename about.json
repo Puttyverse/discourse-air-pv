@@ -20,21 +20,22 @@
       "danger": "d05454",
       "success": "71bd9f",
       "love": "c16ad7",
-      "selected": "e1ebfb"
+      "selected": "d1f0ff"
+      "hover": "f2f2f2"
     },
     "pv-air-dark": {
       "primary": "e0e0e0",
-      "secondary": "2d2d2d",
-      "tertiary": "9a5cfd",
-      "quaternary": "71bd9f",
+      "secondary": "202020",
+      "tertiary": "71bd9f",
+      "quaternary": "c7fae5",
       "header_background": "202020",
       "header_primary": "e0e0e0",
-      "highlight": "9a5cfd",
+      "highlight": "fafafa",
       "danger": "d05454",
       "success": "71bd9f",
-      "love": "c16ad7",
-      "selected": "2f0177",
-      "hover": "535353"
+      "love": "fa6c8d",
+      "selected": "323232",
+      "hover": "323232"
     }
   },
   "screenshots": ["screenshots/light.png", "screenshots/dark.png"]
