@@ -8,35 +8,5 @@
   "modifiers": {
     "serialize_topic_excerpts": true
   },
-  "color_schemes": {
-    "air-light": {
-      "primary": "1c1c1c",
-      "secondary": "ffffff",
-      "tertiary": "0c3872",
-      "quaternary": "f9b492",
-      "header_background": "ffffff",
-      "header_primary": "2a302f",
-      "highlight": "e6cb37",
-      "danger": "d05454",
-      "success": "71bd9f",
-      "love": "c16ad7",
-      "selected": "d1f0ff"
-      "hover": "f2f2f2"
-    },
-    "air-dark": {
-      "primary": "e0e0e0",
-      "secondary": "202020",
-      "tertiary": "71bd9f",
-      "quaternary": "c7fae5",
-      "header_background": "202020",
-      "header_primary": "e0e0e0",
-      "highlight": "fafafa",
-      "danger": "d05454",
-      "success": "71bd9f",
-      "love": "fa6c8d",
-      "selected": "323232",
-      "hover": "323232"
-    }
-  },
   "screenshots": ["screenshots/light.png", "screenshots/dark.png"]
 }
