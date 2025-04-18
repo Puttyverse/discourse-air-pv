@@ -1,10 +1,10 @@
 {
-  "name": "PV Theme",
-  "component": false,
-  "license_url": null,
-  "about_url": null,
-  "authors": null,
-  "theme_version": "10.0.0",
+  "name": "PV Air Theme",
+  "about_url": "https://meta.discourse.org/t/discourse-air-theme/197703",
+  "license_url": "https://github.com/Puttyverse/air-pv/blob/main/LICENSE",
+  "components": [
+    "https://github.com/discourse/discourse-clickable-topic.git"
+  ],
   "modifiers": {
     "serialize_topic_excerpts": true
   },
@@ -22,7 +22,7 @@
       "love": "c16ad7",
       "selected": "d1f0ff",
       "hover": "f2f2f2"
-    }
+    },
     "PV air-dark": {
       "primary": "e0e0e0",
       "secondary": "202020",
